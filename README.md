@@ -6,4 +6,4 @@
 Link to watch how simulator works.
 ```
 
-[SimulatorEmail](musing-brahmagupta-49d39f.netlify.app)
+[SimulatorEmail](https://musing-brahmagupta-49d39f.netlify.app/)
